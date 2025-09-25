@@ -59,7 +59,6 @@ _ตารางที่_
 ในส่วนรถยนต์ไฟฟ้าแบบเสียบปลั๊ก (PHEV) ที่แม้จะมีเทคโนโลยีระหว่างรถไฟฟ้าและรถ HEV แต่ยอดจดทะเบียนกลับน้อยกว่ามาก สาเหตุเนื่องจากรถยนต์ที่มีเทคโนโลยีระบบนี้ในปัจจุบันยังมีจำหน่ายน้อยรุ่น มีตัวเลือกในตลาดที่ค่อนข้างน้อย และมีราคาที่ค่อนข้างสูง ตั้งแต่ 900,000 บาทขึ้นไป ปัจจัยราคาและความคุ้มค่าดังกล่าวอาจทำให้ผู้ซื้อเลือกที่จะซื้อรถยนต์ประเภท รถไฟฟ้า หรือ HEV มากกว่า
 
 ### เทียบ EV ตามจังหวัด และภูมิภาค
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/eb5946c7-2f81-4754-96b3-1dc2bd87fd2d" />
 <img width="1000"  alt="image" src="https://github.com/user-attachments/assets/dbe7ea14-cab5-4065-bd0e-32e666d4c42d" />
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/b3f389dd-5e45-4e4d-adf1-c6e3be24e53c" />
 
@@ -67,12 +66,12 @@ _ตารางที่_
 _ตารางที่_
 จากข้อมูลและแผนภูมิ xx พบว่า ภูมิภาคที่มีการกระจุกตัวของรถไฟฟ้ามากที่สุดคือ ภาคตะวันออกเฉียงเหนือ ตามมาด้วยภาคใต้ ภาคกลาง(ยกเว้นกรุงเทพมหานคร) ภาคเหนือ ภาคตะวันออก ส่วนภาคตะวันตกมีจำนวนรถที่จดทะเบียนน้อยที่สุด แต่หากพิจารณาในระดับจังหวัด พบว่า จังหวัดเชียงใหม่ สงขลา และภูเก็ต เป็นจังหวัดที่มีรถยนต์ไฟฟ้าจดทะเบียนมากที่สุด แสดงให้เห็นถึงการกระจุกตัวของรถยนต์ในเฉพาะจังหวัดใหญ่ของภูมิภาค ในขณะที่ภาคตะวันออกเฉียงเหนือที่เป็นภูมิภาคที่มีรถไฟฟ้ามากที่สุด กลับมีจังหวัดอยู่ในอันดับที่ 5 จากข้อมูลดังกล่าวทำให้เกิดคำถามว่า เหตุใดภาคเหนือ และภาคใต้ จึงมีการกระจุกตัวของรถยนต์ไฟฟ้ามากกว่าภูมิภาคอื่นๆ ซึ่งสาเหตุอาจเกิดจากสาขาของศูนย์ให้บริการขายในพื้นที่นั้นๆ หรือไม่ จึงพิจารณาดูการกระจายตัวของศูนย์ให้บริการรถไฟฟ้าในประเทศ ได้ข้อมูลดังภาพ
 <img width="1000"  alt="image" src="https://github.com/user-attachments/assets/83a6733a-7998-495a-80a9-60cd62bac6a0" />
-<img width="1600" alt="image" src="https://github.com/user-attachments/assets/2cb68918-8a8c-4139-a241-8b9307af4343" />
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/41c75c27-0de0-4eaa-bec7-fd012c7cfe20" />
+<img width="1600" alt="image" src="https://github.com/user-attachments/assets/2cb68918-8a8c-4139-a241-8b9307af4343" />
+
 
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/d7464c2c-2b3e-477c-8912-6994b263e4de" />
 
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/2905e528-6968-4d7e-b329-e4f08f415498" />
 <img width="1000"  alt="image" src="https://github.com/user-attachments/assets/36e8c774-b57f-47cf-b423-f78b897a2a84" />
 <img width="1000"  alt="image" src="https://github.com/user-attachments/assets/b2e432f3-6de7-45cc-96c6-b1fb7e98ee9d" />
 
