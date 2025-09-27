@@ -83,16 +83,18 @@ https://web.dlt.go.th/statistics/
 แผนภูมิที่ 9 จำนวนรถ EV แยกตามจังหวัด
 
 
-<img width="1000" alt="image" src="https://github.com/user-attachments/assets/41c75c27-0de0-4eaa-bec7-fd012c7cfe20" />
-แผนภูมิที่ 10 แผนที่ประเทศไทย แสดงการกระจายตัว และความหนาแน่นของจำนวนรถ EV
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/d7464c2c-2b3e-477c-8912-6994b263e4de" />
+แผนภูมิที่ 10 จำนวนรถ EV รายจังหวัด สูงสุด 15 จังหวัดแรก
 
+
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/41c75c27-0de0-4eaa-bec7-fd012c7cfe20" />
+แผนภูมิที่ 11 แผนที่ประเทศไทย แสดงการกระจายตัว และความหนาแน่นของจำนวนรถ EV
+
+
+เนื่องจากกรุงเทพมหานคร เป็นพื้นที่ที่มีความหนาแน่นของการจดทะเบียนรถ EV มากที่สุด และมีจำนวนที่ห่างจากจังหวัดอื่นหลายเท่า จึงได้ลองวิเคราะห์โดยไม่รวมกรุงเทพมหานคร ได้ข้อมูลตามแผนภูมที่ 12-13
 
 <img width="1600" alt="image" src="https://github.com/user-attachments/assets/2cb68918-8a8c-4139-a241-8b9307af4343" />
-แผนภูมิที่ 11 จำนวนรถ EV แยกตามจังหวัด (ไม่รวมกรุงเทพมหานคร)
-
-
-<img width="1000" alt="image" src="https://github.com/user-attachments/assets/d7464c2c-2b3e-477c-8912-6994b263e4de" />
-แผนภูมิที่ 12 จำนวนรถ EV รายจังหวัด สูงสุด 15 จังหวัดแรก
+แผนภูมิที่ 12 จำนวนรถ EV แยกตามจังหวัด (ไม่รวมกรุงเทพมหานคร)
 
 
 <img width="1000"  alt="image" src="https://github.com/user-attachments/assets/36e8c774-b57f-47cf-b423-f78b897a2a84" />
